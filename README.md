@@ -16,3 +16,5 @@ admin:
     1. Aprove, deny users
     2. Aprove, deny, view laundries
     3. Update profile
+	
+Thanks for "creative tim" for wonderful html template.
